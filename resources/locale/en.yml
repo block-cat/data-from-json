@@ -1,0 +1,13 @@
+data-from-json:
+  admin:
+    settings:
+      file_name_label: 'Select JSON file'
+      file_name_help_text: 'Selected file should contain follow attributes: title, text, company, city, experience, schedule, education, salary, phone, email, web_site, data, category'
+      primary_tags_label: "Primary Tags"
+      primary_tags_help_text: "Select primary tags to discussion, max "
+      secondary_tags_label: "Secondary Tags"
+      secondary_tags_help_text: "Select secondary tags to discussion, max "
+      attention: "If tags are not selected, discussions will created without tags!"
+      submit_button: 'Create'
+  api:
+    file_not_exists: 'Indicated file does not exists'

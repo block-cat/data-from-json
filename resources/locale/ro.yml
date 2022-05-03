@@ -1,0 +1,13 @@
+data-from-json:
+  admin:
+    settings:
+      file_name_label: 'Selectați fișierul JSON'
+      file_name_help_text: 'Fișierul selectat trebuie să conțină atributele: title, text, company, city, experience, schedule, education, salary, phone, email, web_site, data, category'
+      primary_tags_label: "Etichete pricipale"
+      primary_tags_help_text: "Selectați etichete principale pentru discuție, maxim "
+      secondary_tags_label: "Etichete secundare"
+      secondary_tags_help_text: "Selectați etichete secundare pentru discuție, maxim "
+      attention: "Dacă nu sunt selectate etichete, discuțiile vor fi creată fără acestea"
+      submit_button: 'Creare'
+  api:
+    file_not_exists: 'Fișierul indicat nu există'

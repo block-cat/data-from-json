@@ -1,0 +1,31 @@
+{
+  "name": "block-cat/data-from-json",
+  "description": "Upload data from json file",
+  "keywords": [
+    "flarum",
+    "discussion"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.16"
+  },
+  "authors": [{
+    "name": "BlockCat"
+  }],
+  "autoload": {
+    "psr-4": {
+      "BlockCat\\DataFromJson\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "BkC Data From JSON",
+      "icon": {
+        "name": "fas fa-file-alt",
+        "backgroundColor": "#083",
+        "color": "#fff"
+      }
+    }
+  }
+}
