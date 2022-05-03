@@ -1,4 +1,4 @@
-# Data From JSON
+# BkC Data From JSON
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/block-cat/data-from-json.svg)](https://packagist.org/packages/block-cat/data-from-json)
 
